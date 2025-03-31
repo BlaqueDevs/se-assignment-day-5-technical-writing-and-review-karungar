@@ -24,17 +24,24 @@ Use simple Language, Use real-world cases to explain complex ideas introduce vis
 * Time and cost efficient: Time and money is saved because the users spend less time understanding the content and authors do not need to spend much time explaining jargo or dealing with back and forth questions from users .
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
-Utilize -> use
-Subsequently -> then
-Numerous -> many
-Initiate -> start
-Terminate -> end
-Demonstrate -> show
-Facilitate -> help
+* Utilize -> use
+* Subsequently -> then
+* Numerous -> many
+* Initiate -> start
+* Terminate -> end
+* Demonstrate -> show
+* Facilitate -> help
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
+ Examples and visuals can help you simplify complex technical concepts by breaking them down into smaller, more digestible pieces. They can also be used to illustrate relationships, patterns, processes, or scenarios that are hard to describe with words alone in a way the audience can relate. It also captures the audience's attention, stimulate their emotions, and increase their retention and recall of your content.
 
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+* Tables: Useful when many specific values need to be accessible. They present data logically, and usually are used to compare data. 
+* Drawings simplify an item to more effectively explain that item’s characteristics.
+* Organizational and Flow Charts show reporting structures (organizational chart) and the sequence of steps in a process or procedure (flow chart).
+* Photographs show what something looks like in realistic detail.
+* Diagrams show spatial and/or functional relationships.
+
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
