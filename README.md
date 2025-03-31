@@ -51,5 +51,12 @@ Use simple Language, Use real-world cases to explain complex ideas introduce vis
 * Important for screen readers thus improving accessibility to people with disabilities.
   
 ## 10. What are some best practices for creating effective headings and subheadings?
+1. Consider the hierarchical relationship of ideas and present them using change of font size, boldness, typography and colour.In principal,first level headings are larger and bolder than second and subsequent level headings.
+2. Ensure consistency. If you use headings, every section must have a heading and the headings at each level should be consistent in design (font, size, color, indentation, etc.) The use consistent, parallel phrasing is important.
+3. To improve on readability, leave passive space above and below headings. 
+4. Use descriptive headings that inform the reader of the content of each section.
+   
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
+A Description 
 ## 12. How can you succinctly convey the purpose and key features of a product?
+The use of bold and bullet points to highlight the most important features and benefits of your product. 
