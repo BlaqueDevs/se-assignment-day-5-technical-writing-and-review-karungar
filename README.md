@@ -24,7 +24,16 @@ Use simple Language, Use real-world cases to explain complex ideas introduce vis
 * Time and cost efficient: Time and money is saved because the users spend less time understanding the content and authors do not need to spend much time explaining jargo or dealing with back and forth questions from users .
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+Utilize -> use
+Subsequently -> then
+Numerous -> many
+Initiate -> start
+Terminate -> end
+Demonstrate -> show
+Facilitate -> help
+
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
+
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
